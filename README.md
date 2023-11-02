@@ -43,10 +43,10 @@ The dataset used for training the machine learning model is the German Credit da
 ### Attributes:
 
 - Attribute 1:  Status of Existing Checking Account
-         - 1 :      ... <    0 Dt
-         - 2 : 0 <= ... <  200 Dt
-     	 - 3 :      ... >= 200 Dt /salary assignments for at least 1 year
-         - 4 : no checking account 
+          1 :      ... <    0 Dt
+          2 : 0 <= ... <  200 Dt
+     	  3 :      ... >= 200 Dt /salary assignments for at least 1 year
+          4 : no checking account 
 
 - Attribute 2: Duration in months
 
