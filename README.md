@@ -24,7 +24,7 @@ This web application allows users to input their financial information, and it u
 
  the flask app is hosted here : arij123.pythonanywhere.com
 
- send a list via Postman of 17 attributes according to the attributes listed on #Attributes
+ send a list via Postman of 17 attributes according to the attributes listed on [Attributes](#Attributes)
 
  example : []
  
