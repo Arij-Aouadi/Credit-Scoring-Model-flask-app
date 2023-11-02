@@ -22,8 +22,12 @@ This web application allows users to input their financial information, and it u
 
 ## Demo
 
-Insert a link or GIF to demonstrate how the app works.
+ the flask app is hosted here : arij123.pythonanywhere.com
 
+ send a list via Postman of 17 attributes according to the attributes listed on #Attributes
+
+ example : []
+ 
 ![Demo](demo.gif)
 
 ## Features
