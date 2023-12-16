@@ -26,9 +26,10 @@ This web application allows users to input their financial information, and it u
 
  send a list via Postman of 17 attributes according to the attributes listed on [Attributes](#Attributes)
 
- example : []
- 
-![Demo](demo.gif)
+ example : 
+
+ ![postman](https://github.com/Arij-Aouadi/Credit-Scoring-Model-flask-app/assets/92737417/c68c23ed-fb40-4122-be9c-aac384cce79c)
+
 
 ## Features
 
